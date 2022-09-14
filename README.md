@@ -3,7 +3,9 @@ The objective is to process the Canadian Climate data.
 Usually, when we want to download the weather data manually, we go to https://climate.weather.gc.ca/historical_data/search_historic_data_e.html.
 
 Shell script: You will use the shell script to control every operation, including data downloading, log setting, python script running.
+
 Python script: While the Python script is used to concatenate all the data into one file.
+
 all_years.csv: This is the output file you concatenate all the downloads.
 
 download data with shell command,
